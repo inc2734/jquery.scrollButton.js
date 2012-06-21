@@ -1,0 +1,13 @@
+@charset 'utf-8';
+/*--------------------------------------------------
+ *
+ * jquery.scrollButton.js
+ * Sample CSS
+ *
+--------------------------------------------------*/
+.fadeTopBtn a {
+	background-color : #000;
+	display : block;
+	padding : 10px 15px;
+	color : #fff;
+}
