@@ -2,10 +2,10 @@
  * Plugin Name: jquery.scrollButton.js
  * Plugin URI: http://2inc.org
  * Description: スクロールすると自動的にトップへ戻るボタンを表示
- * Version: 0.1
+ * Version: 0.1.1
  * Author: Takashi Kitajima
  * Author URI: http://2inc.org
- * modified : Jun 21, 2012
+ * modified : Jun 22, 2012
  * License: GPL2
  * 
  * @param	{ duration, offset, startPosY, string, target, theClass )
@@ -88,7 +88,3 @@
 		});
 	};
 })( jQuery );
-
-jQuery( function( $ ) {
-	$('body').scrollButton();
-} );
