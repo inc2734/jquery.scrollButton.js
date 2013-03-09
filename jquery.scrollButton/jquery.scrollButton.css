@@ -9,5 +9,16 @@
 	background-color : #000;
 	display : block;
 	padding : 10px 15px;
+}
+.fadeTopBtn a:link {
+	color : #fff;
+}
+.fadeTopBtn a:visited {
+	color : #fff;
+}
+.fadeTopBtn a:active {
+	color : #fff;
+}
+.fadeTopBtn a:hover {
 	color : #fff;
 }
