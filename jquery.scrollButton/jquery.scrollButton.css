@@ -5,6 +5,9 @@
  * Sample CSS
  *
 --------------------------------------------------*/
+.fadeTopBtn {
+	z-index: 100;
+}
 .fadeTopBtn a {
 	background-color : #000;
 	display : block;

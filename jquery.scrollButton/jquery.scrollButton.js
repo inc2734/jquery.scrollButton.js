@@ -2,16 +2,16 @@
  * Plugin Name: jquery.scrollButton.js
  * Plugin URI: http://2inc.org
  * Description: スクロールすると自動的にトップへ戻るボタンを表示
- * Version: 0.1.2
+ * Version: 0.1.3
  * Author: Takashi Kitajima
  * Author URI: http://2inc.org
  * Created : Jun 21, 2012
- * Modified: March 8, 2013
+ * Modified: February 4, 2014
  * License: GPL2
  *
  * @param	{ duration, offset, startPosY, string, target, theClass )
  *
- * Copyright 2013 Takashi Kitajima (email : inc@2inc.org)
+ * Copyright 2014 Takashi Kitajima (email : inc@2inc.org)
  *
  * This program is free software; you can redistribute it and/or modify
  * it under the terms of the GNU General Public License, version 2, as
